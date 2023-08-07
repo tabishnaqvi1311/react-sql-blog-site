@@ -10,6 +10,8 @@ It has:
 It needs: (these are features that I plan on adding somewhere in the future, but the website works just fine without them):
 - Better Authentication
 - More Frontend Features
+- Better File Uploading 
+- User/Admin Page where user accounts can be managed
 
 ## Made Using 
 
